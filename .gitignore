@@ -1,3 +1,12 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Capacitor directories
+ios/
+android/
+electron/
+
 # Environment files
 .env
 .env.local
