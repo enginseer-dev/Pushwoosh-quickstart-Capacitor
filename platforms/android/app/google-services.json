@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042006228959",
+    "project_id": "cordova-pushwoosh-test",
+    "storage_bucket": "cordova-pushwoosh-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042006228959:android:0a8f49c59fd6a6308b8e6a",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfbVLMt-N-NCaEKmXF2ehuQOGrW6AIss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
