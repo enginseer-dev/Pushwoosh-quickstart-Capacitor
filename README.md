@@ -37,6 +37,7 @@ ext {
 
 ```
 **6. Place your google-services.json file in the /android/app/ directory.**
+
 **7. Sync Capacitor:**
 ```
 npx cap sync
